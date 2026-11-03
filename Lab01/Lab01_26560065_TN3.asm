@@ -1,3 +1,4 @@
+#Listing 7 (data section)
 .data
 prompt: .asciiz "Enter reading (kWh): "
 m1:     .asciiz "Month 1: "
